@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🥳 HAN JUA 🥳
 
 <!--
 **Claire-art/Claire-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
