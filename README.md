@@ -6,8 +6,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&&&color=timeGradient&height=300&section=header&text=HAN%20JUA&fontSize=90)
 
 
---------------------------
+
+  <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claire-art&show_icons=true&theme=radical)
+-->
 
 </div>
 
