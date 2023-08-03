@@ -5,7 +5,7 @@
 
 **Dongguk univ.seoul**
 
-**Dept. of Multimedia Software Engineering (22)**
+**Dept. of Multimedia Software Engineering**
 
 <br/><br/>
 
