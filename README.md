@@ -3,9 +3,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&animation=fadeIn&section=footer&text=😊😽&fontAlign=90)
 <br/><br/>
 
-**Dongguk univ.seoul**
 
-**Dept. of Multimedia Software Engineering**
+
+**Undergraduate student of Class '22 ,**
+
+**majoring in Multimedia Software Engineering (MME, mme.dongguk.edu)**
+
+**at the AI Software Convergence Department**
+
+**Dongguk University Seoul (www.dongguk.edu)**
 
 <br/><br/>
 
