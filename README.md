@@ -7,7 +7,7 @@
 
 **Undergraduate student of Class '22 ,**
 
-**majoring in Multimedia Software Engineering (MME, mme.dongguk.edu)**
+**majoring in Multimedia Software Engineering (MME, http://mme.dongguk.edu/k3/index.php)**
 
 **at the AI Software Convergence Department**
 
