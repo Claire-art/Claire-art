@@ -20,47 +20,6 @@
 
 <br/><br/>
 <div align="center">
-    
-**Undergraduate student of Class '22 ,**
-
-**majoring in Multimedia Software Engineering (MME, https://mme.dongguk.edu/main)**
-
-**at the AI Software Convergence Department**
-
-**Dongguk University Seoul (www.dongguk.edu)**
-
-<br/><br/>
-
-<!--
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claire-art&theme=nord_dark)
-
--->
-
-<!--
-
-<a href="s">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Claire-art&theme=nord_bright"/>
-</a>
-<a href="s">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Claire-art&theme=nord_bright"/>
-</a>
-
--->
-
-<br/>
-
-<a href="s">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Claire-art&theme=nord_bright" />
-</a>
-<a href="s">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Claire-art&theme=nord_bright"/>
-</a>
-
-<br/><br/>
-
-
-
 
 
 
