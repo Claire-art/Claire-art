@@ -6,27 +6,17 @@
 
 -->
 
-<br/><br/>
-
 
 
 <div align= "center">
-    <div align= "center">
-         <a href=mailto:juachef@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:juachef@gmail.com"> </a>
-          </div> 
-    </div>
-
-<br/><br/>
+<a>Hi! I'm Jua</a>
+    <br><br>
+	<img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />	<img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/ros-22314E.svg?&style=for-the-badge&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white" />
 <div align="center">
 
 
 
 
-
-
-
-
-
-
-</div>
 
