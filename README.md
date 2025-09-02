@@ -83,6 +83,52 @@
 
 ###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+<p align="left">
+&nbsp;Graduated with a B.S. in Multimedia Engineering (Class of 2022) from Dongguk University.<br>
+&nbsp;Currently pursuing a master's degree at the ML Lab, Dongguk University.<br>
+&nbsp;Working as an AI researcher.<br>
+</p>
+
+
+###
+
+<h3 align="left">📖   Publications</h3>
+
+<ul align="left">
+<li>
+<strong>“Research Trends in Copyright Infringement Prevention Techniques for Generative AI Models: Focusing on Style Imitation and Prevention Methods”</strong> <br>
+The Korean Institute of Broadcast and Media Engineers, 2025. <br>
+</li>
+<li>
+<strong>“Adversarial Example Generation for Preventing Image Style Mimicry in Diffusion Models”</strong> <br>
+The Institute of Electronics and Information Engineers, 2025. <br>
+</li>
+<li>
+<strong>“Study on Scenario Detection in Accident-prone Areas Using Multimodal Techniques”</strong> <br>
+34th AI Signal Processing Conference, 2024. <br>
+</li>
+</ul>
+
+###
+
+<h3 align="left">🏆 Awards</h3>
+
+<ul align="left">
+<li>
+Seoul National University - Autonomous Navigation S/W High-Tech Innovation Award</strong><br>
+</li>
+<li>
+Ministry of Land, Infrastructure and Transport - Creative Automotive Competition Finalist</strong><br>
+</li>
+<li>
+International University Autonomous Navigation Economic Competition Merit Award</strong><br>
+</li>
+</ul>
+
+###
+
 <br clear="both">
 
 <picture>
