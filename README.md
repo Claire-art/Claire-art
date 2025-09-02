@@ -41,9 +41,11 @@
   <a href="mailto:juachef@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
+
   <a href="https://boiled-penalty-f99.notion.site/About-JUA-f0dc18a4e0f7471e81cea9eb872c2be7" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Notion&logo=notion&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="notion logo" />
   </a>
+  
   <a href="https://www.linkedin.com/in/jua-han-903a05280/" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
