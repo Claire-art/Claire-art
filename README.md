@@ -86,9 +86,15 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">
-&nbsp;Graduated with a B.S. in Multimedia Engineering (Class of 2022) from Dongguk University.<br>
-&nbsp;Currently pursuing a master's degree at the ML Lab, Dongguk University.<br>
-&nbsp;Working as an AI researcher.<br>
+<li>
+	&nbsp;Graduated with a B.S. in Multimedia Engineering (Class of 2022) from Dongguk University<br>
+</li>
+<li>
+	&nbsp;Currently pursuing a master's degree at the ML Lab, Dongguk University<br>
+</li>
+<li>
+	&nbsp;Working as an AI researcher<br>
+</li>
 </p>
 
 
