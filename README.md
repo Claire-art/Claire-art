@@ -87,7 +87,7 @@
 
 <ul align="left">
 <li>
-	Graduated with a B.S. in Multimedia Engineering (Class of 2022) from Dongguk University<br>
+	Graduated with a B.S. in Multimedia Engineering from Dongguk University<br>
 </li>
 <li>
 	Currently pursuing a master's degree at the ML Lab, Dongguk University<br>
