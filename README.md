@@ -90,6 +90,9 @@
 	Graduated with a B.S. in Multimedia Engineering from Dongguk University<br>
 </li>
 <li>
+	Summer Research Intern at Carnegie Mellon University, The Robotics Institute
+</li>
+<li>
 	Currently pursuing a master's degree at the ML Lab, Dongguk University<br>
 </li>
 <li>
